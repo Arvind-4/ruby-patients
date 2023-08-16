@@ -15,9 +15,6 @@ Build a simple rails application that consists of receptionist portal & doctor p
 
 ##  📦 Demo:
 
-![Demo Video](https://raw.githubusercontent.com/Arvind-4/ruby-patients/.github/static/demo.mp4)
 
-
-
-
+![Demo Video](https://github.com/Arvind-4/ruby-patients/assets/81419892/5ef02cd4-6e3d-45f9-8992-ddf8094256d8)
 
